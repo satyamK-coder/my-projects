@@ -1,6 +1,7 @@
 # my-projects
 For learning purpose
 
-my name is Satyam
-
- change from browser
+commands to commit changes
+- git add .
+- git commit -m "message"
+- git push
